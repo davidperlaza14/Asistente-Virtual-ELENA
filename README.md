@@ -7,7 +7,7 @@
 
 ### Desde que vi las peliculas de IRO MAN siempre quise crear mi propio  asistente virtual y lo he logrado.
 
-### Mi Asistente Virtual Personal lo he llamado ELENA.
+### Mi Asistente Virtual Personal lo he llamado I.V.A.N.
 
 ---
 
@@ -16,7 +16,7 @@
 
 
 
-# Virtual Assistant ELENA
+# Virtual Assistant I.V.A.N.
 
 ### Do you remember JARVIS, Tony Stark's virtual personal assistant? If you've seen any of the Ironman or Avengers movies, I'm sure you do.
 
@@ -24,4 +24,4 @@
 
 ### Ever since I saw the IRON MAN movies I've always wanted to create my own virtual assistant and I've succeeded.
 
-### My Personal Virtual Assistant I have named ELENA.
+### My Personal Virtual Assistant I have named I.V.A.N.
