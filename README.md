@@ -32,3 +32,15 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 ![Asistennte_Virtual](image/Asistente.png)
+
+
+
+
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+## Licencia
+
+Este proyecto está licenciado bajo los términos de la [Licencia MIT](LISENCE).
