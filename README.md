@@ -39,7 +39,10 @@
 
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Contents of .env file
+
 USER=None
 
 BOTNAME=JARVIS
@@ -54,7 +57,7 @@ OPENWEATHER_APP_ID=None
 
 TMDB_API_KEY=None
 
->Add your own values
+>> Add your own values
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ## Licencia
